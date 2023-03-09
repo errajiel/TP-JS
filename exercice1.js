@@ -1,0 +1,2 @@
+/*Dans le fichier lib.js vous avez les donner sur les quelle tu peux agir
+Donnant un argumant entier nommer ID, ecrire un programme qui affiche tous les nommes des produit acheter par le client d'identifiant ID. */
